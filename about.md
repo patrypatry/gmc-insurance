@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About us
-permalink: /about/
+permalink: about/
 ---
 
 Insurance company page. Under construction
