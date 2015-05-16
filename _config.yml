@@ -11,17 +11,17 @@ description: > # this means to ignore newlines until "email:"
 
 email: agalis07@gmail.com
 #blog logo
-logo: "/assets/images/gmc_logo.png"
+logo: "assets/images/gmc_logo.png"
 # blog cover
-cover: "/assets/images/gmc_beach_header.jpg"
+cover: "assets/images/gmc_beach_header.jpg"
 
 name: 'Antonio Galis-Menendez'
 author: 'Antonio Galis-Menendez'
-author_image: "/assets/images/author.jpg"
+author_image: "assets/images/author.jpg"
 
 paginate:	5
 
-url: "http://gmcinsurance.com" # the base hostname & protocol for your site
+url: "http://gmc-insurance.com" # the base hostname & protocol for your site
 baseurl: ""
 
 # social icons and sharing options
