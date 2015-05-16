@@ -1,0 +1,41 @@
+# Build settings
+markdown: redcarpet
+highlighter: pygments
+gems:
+  - jemoji
+
+# Site settings
+title: "GMC Insurance"
+description: > # this means to ignore newlines until "email:"
+   Life and Health
+
+email: agalis07@gmail.com
+#blog logo
+logo: "/assets/images/gmc_logo.png"
+# blog cover
+cover: "/assets/images/gmc_beach_header.jpg"
+
+name: 'Antonio Galis-Menendez'
+author: 'Antonio Galis-Menendez'
+author_image: "/assets/images/author.jpg"
+
+paginate:	5
+
+url: "http://gmcinsurance.com" # the base hostname & protocol for your site
+baseurl: ""
+
+# social icons and sharing options
+social:
+ - icon:	facebook
+   url:	https://facebook.com/agalis07
+   desc: Connect with us on facebook
+   share_url: https://www.facebook.com/sharer.php
+   share_title: ?t=
+   share_link: "&amp;u="
+
+ # - icon:	google-plus
+ #   url:	https://google.com/agalis07
+ #   desc:	Add us on google+
+ #   share_url:
+ #   share_title:
+ #   share_link:
