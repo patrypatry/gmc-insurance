@@ -21,7 +21,7 @@ author: 'Antonio Galis-Menendez'
 paginate:	5
 
 url: "http://gmc-insurance.com" # the base hostname & protocol for your site
-baseurl: "http://gmc-insurance.com"
+baseurl: ""
 
 # social icons and sharing options
 social:
