@@ -26,13 +26,13 @@ baseurl: "http://patrypatry.github.io/gmc-insurance"
 # baseurl: ""
 
 # social icons and sharing options
-social:
- - icon:	facebook
-   url:	https://facebook.com/agalis07
-   desc: Connect with us on facebook
-   share_url: https://www.facebook.com/sharer.php
-   share_title: ?t=
-   share_link: "&amp;u="
+# social:
+#  - icon:	facebook
+#    url:	https://facebook.com/agalis07
+#    desc: Connect with us on facebook
+#    share_url: https://www.facebook.com/sharer.php
+#    share_title: ?t=
+#    share_link: "&amp;u="
 
  # - icon:	google-plus
  #   url:	https://google.com/agalis07
