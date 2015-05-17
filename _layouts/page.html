@@ -40,10 +40,12 @@
           <a name="topofpage"></a>
           {{content}}
         </section>
-        {% if site.contact == "static" %}
-        {% include contact_static.html %}
-        {% else %}
-        {% include contact.html %}
+        {% if page.contact %}
+          {% if site.contact == "static" %}
+           {% include contact_static.html %}
+          {% else %}
+           {% include contact.html %}
+          {% endif %}
         {% endif %}
       </article>
     </main>

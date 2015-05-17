@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Contact us
-permalink: /about/
+permalink: /contact/
+contact: true
 ---
 
 How can we help you? Please give us a call for a free consultation at 305-491-8662 or send us an email using the form below. Thanks!

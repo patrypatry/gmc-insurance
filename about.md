@@ -4,6 +4,6 @@ title: About us
 permalink: /about/
 ---
 
-How can we help you? Please give us a call for a free consultation at 305-491-8662 or send us an email using the form below. Thanks!
+As insurance agents we can help you and your family to shop, select, and enroll in the more convenient plan. Don't hesitate to contact us with your questions!
 
-Cómo podemos ayudarle? Por favor llámenos para una consulta gratis al 305-491-8662 o envíanos un correo a través de esta página. Gracias!
+Como agentes de seguro podemos ayudarle a escoger, comprar y subcribirse en el plan mas conveniente para usted y su familia. No dude en contactarnos con sus preguntas!
