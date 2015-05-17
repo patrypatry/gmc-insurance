@@ -4,7 +4,6 @@ title:  "Health Insurance Plans"
 date:   2015-05-16 10:34:25
 categories: insurance_plans
 image: /assets/images/gmc_beach_header.jpg
-url: /insurance_plans/2015/05/16/health-insurance-plans.html
 ---
 #Health Insurance Plans
 
