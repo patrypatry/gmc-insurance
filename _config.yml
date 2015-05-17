@@ -9,19 +9,21 @@ title: "GMC Insurance"
 description: > # this means to ignore newlines until "email:"
    Life and Health
 
-email: agalis07@gmail.com
+email: patgalis@gmail.com
 #blog logo
 logo: "/assets/images/gmc_logo.png"
 # blog cover
 cover: "/assets/images/gmc_beach_header.jpg"
 
-name: 'Antonio Galis-Menendez'
-author: 'Antonio Galis-Menendez'
+name: 'GMC Life & Health Insurance'
+author: 'GMC Life & Health Insurance'
+contact: static
 
 paginate:	5
 
 url: "http://gmc-insurance.com" # the base hostname & protocol for your site
 baseurl: "http://patrypatry.github.io/gmc-insurance"
+# baseurl: ""
 
 # social icons and sharing options
 social:

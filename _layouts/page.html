@@ -40,6 +40,11 @@
           <a name="topofpage"></a>
           {{content}}
         </section>
+        {% if site.contact == "static" %}
+        {% include contact_static.html %}
+        {% else %}
+        {% include contact.html %}
+        {% endif %}
       </article>
     </main>
     <div class="bottom-closer">
